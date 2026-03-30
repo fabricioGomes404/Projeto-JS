@@ -37,5 +37,8 @@ label {
     color: black;
     font-size: 1.2em;
     margin-top: 1em;
-    
+}
+
+main {
+    background-color: rgb(36, 230, 123));
 }
