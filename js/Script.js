@@ -10,7 +10,7 @@ function calcular() {
     
     if (media >= 6) { 
         mensagem.textContent = `Você foi aprovado.`;
-    } else {
+    } else {2w
         mensagem.textContent = `Você foi reprovado.`;
     }
 }
